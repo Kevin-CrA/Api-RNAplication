@@ -1,7 +1,7 @@
 # Api-RNAplication
 React Native application using the api Rick and Morty Apps Design
 
-Application seen in class where consumes and API that has infomation about the show Rick and Morty.
+Application seen in class where consumes and API that has infomation about the show Rick and Morty, doing requests to said public API and create screens for all the characters in certain page and a screen for details from a unique character, also with a built searchbar to filter a certain character that matches words.
 
 
 ###Screens and examples of functionability###
